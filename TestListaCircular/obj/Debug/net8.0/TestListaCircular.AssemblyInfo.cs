@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestListaCircular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+176890d8b480b0e16bf38c10b60d1bc43203df6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestListaCircular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestListaCircular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
