@@ -1,0 +1,14 @@
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\bin\Debug\net8.0\Lista Circular.exe
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\bin\Debug\net8.0\Lista Circular.deps.json
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\bin\Debug\net8.0\Lista Circular.runtimeconfig.json
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\bin\Debug\net8.0\Lista Circular.dll
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\bin\Debug\net8.0\Lista Circular.pdb
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.AssemblyInfoInputs.cache
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.AssemblyInfo.cs
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.dll
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\refint\Lista Circular.dll
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.pdb
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\Lista Circular.genruntimeconfig.cache
+C:\Users\luisa\source\repos\LuisAAQ24\CA-2\Lista Circular\obj\Debug\net8.0\ref\Lista Circular.dll

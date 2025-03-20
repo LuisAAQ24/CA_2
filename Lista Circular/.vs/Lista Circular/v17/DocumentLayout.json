@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|c:\\users\\luisa\\source\\repos\\luisaaq24\\ca-2\\lista circular\\listadoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|solutionrelative:listadoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|c:\\users\\luisa\\source\\repos\\luisaaq24\\ca-2\\lista circular\\listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|solutionrelative:listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63DE1C0-0649-468C-9CFF-115FFAA16BBB}|..\\TestListaCircular\\TestListaCircular.csproj|c:\\users\\luisa\\source\\repos\\luisaaq24\\ca-2\\testlistacircular\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|c:\\users\\luisa\\source\\repos\\luisaaq24\\ca-2\\lista circular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50409D-A291-478C-987C-A000546EEACA}|Lista Circular.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaDobleCircular.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\ListaDobleCircular.cs",
+              "RelativeDocumentMoniker": "ListaDobleCircular.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\ListaDobleCircular.cs",
+              "RelativeToolTip": "ListaDobleCircular.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:08:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaCircularSimple.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\ListaCircularSimple.cs",
+              "RelativeDocumentMoniker": "ListaCircularSimple.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\ListaCircularSimple.cs",
+              "RelativeToolTip": "ListaCircularSimple.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:06:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\TestListaCircular\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\TestListaCircular\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\TestListaCircular\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\TestListaCircular\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:03:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luisa\\source\\repos\\LuisAAQ24\\CA-2\\Lista Circular\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:57:20.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
